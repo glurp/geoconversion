@@ -11,4 +11,5 @@ http://www.gal-systems.com/2011/07/convert-coordinates-between-web.html
 ( is in C-charp codes...)
 
 License
+=======
 LGPL
